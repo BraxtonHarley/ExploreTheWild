@@ -94,6 +94,14 @@
     mix-blend-mode: overlay;
 }
 
+.text-background {
+    background-color: black;
+    opacity: .5;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
 .text {
     position: relative;
     z-index: 10;
