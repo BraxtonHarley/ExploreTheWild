@@ -32,6 +32,7 @@
     text-transform: uppercase;
     cursor: pointer;
     transition: 0.5s;
+    text-decoration: black;
 }
 
 .logo:hover {
